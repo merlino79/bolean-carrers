@@ -11,7 +11,7 @@
 }
 
 body{
-  background-image: url("/home/chanel/Documenti/bole/background.jpg");
+  background-image: url("background.jpg");
   background-size: contain;
   background-size: 100%;
 }
